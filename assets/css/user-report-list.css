@@ -1,0 +1,18 @@
+#my-reports .input-group-btn {
+    width: 200px;
+        padding: 10px;
+}
+
+#my-reports  button.btn {
+    width: 100px;
+}
+
+
+#my-reports  input.form-control {
+
+    margin-top: 10px;
+}
+
+.report_saved.input-group.control-group {
+    width: 100%;
+}

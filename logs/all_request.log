@@ -1,0 +1,375 @@
+27.09.2021 14:52:16 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'settings_page_password-protected',
+  'has_focus' => 'false',
+)
+27.09.2021 14:53:33 - array (
+  'test' => '1',
+)
+27.09.2021 14:53:36 - array (
+  'test' => '1',
+)
+27.09.2021 14:53:43 - array (
+)
+27.09.2021 14:54:17 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'settings_page_password-protected',
+  'has_focus' => 'false',
+)
+27.09.2021 14:54:22 - array (
+)
+27.09.2021 14:54:23 - array (
+)
+27.09.2021 14:54:24 - array (
+)
+27.09.2021 14:54:25 - array (
+)
+27.09.2021 14:55:03 - array (
+)
+27.09.2021 14:55:06 - array (
+)
+27.09.2021 14:55:11 - array (
+)
+27.09.2021 14:55:18 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'settings_page_password-protected',
+  'has_focus' => 'false',
+)
+27.09.2021 14:56:00 - array (
+)
+27.09.2021 14:56:01 - array (
+)
+27.09.2021 14:56:02 - array (
+)
+27.09.2021 14:56:03 - array (
+)
+27.09.2021 14:57:20 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'settings_page_password-protected',
+  'has_focus' => 'false',
+)
+27.09.2021 14:58:55 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'settings_page_password-protected',
+  'has_focus' => 'true',
+)
+27.09.2021 14:59:07 - array (
+)
+27.09.2021 14:59:07 - array (
+)
+27.09.2021 14:59:08 - array (
+)
+27.09.2021 14:59:09 - array (
+)
+27.09.2021 15:00:00 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'settings_page_password-protected',
+  'has_focus' => 'true',
+)
+27.09.2021 15:00:18 - array (
+  'ytu' => '1',
+)
+27.09.2021 15:00:23 - array (
+)
+27.09.2021 15:00:57 - array (
+)
+27.09.2021 15:01:00 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'settings_page_password-protected',
+  'has_focus' => 'true',
+)
+27.09.2021 15:01:30 - array (
+  'action' => 'deactivate',
+  'plugin' => 'password-protected/password-protected.php',
+  'plugin_status' => 'all',
+  'paged' => '1',
+  's' => '',
+  '_wpnonce' => '874d59dfe0',
+)
+27.09.2021 15:01:36 - array (
+  'deactivate' => 'true',
+  'plugin_status' => 'all',
+  'paged' => '1',
+  's' => '',
+)
+27.09.2021 15:01:38 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'plugins',
+  'has_focus' => 'true',
+)
+27.09.2021 15:02:54 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'plugins',
+  'has_focus' => 'true',
+)
+27.09.2021 15:02:57 - array (
+  'plugin_status' => 'all',
+  'paged' => '1',
+  's' => '',
+)
+27.09.2021 15:03:08 - array (
+)
+27.09.2021 15:04:09 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'plugins',
+  'has_focus' => 'false',
+)
+27.09.2021 15:05:52 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'plugins',
+  'has_focus' => 'true',
+)
+27.09.2021 15:05:57 - array (
+  'page' => 'stm-lms-settings',
+)
+27.09.2021 15:06:07 - array (
+  'action' => 'stm_wpcfto_get_settings',
+  'source' => 'settings',
+  'name' => 'stm_lms_settings',
+)
+27.09.2021 15:06:10 - array (
+  'action' => 'wpcfto_get_image_url',
+  'nonce' => '812f00ba26',
+  'image_id' => '',
+)
+27.09.2021 15:06:10 - array (
+  'action' => 'wpcfto_get_image_url',
+  'nonce' => '812f00ba26',
+  'image_id' => '1234',
+)
+27.09.2021 15:06:11 - array (
+  'action' => 'wpcfto_get_image_url',
+  'nonce' => '812f00ba26',
+  'image_id' => '',
+)
+27.09.2021 15:07:06 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:08:03 - array (
+)
+27.09.2021 15:08:06 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:08:09 - array (
+  'wc-ajax' => 'get_refreshed_fragments',
+  'time' => '1632755288205',
+)
+27.09.2021 15:08:09 - array (
+  'action' => 'stm_lms_get_reviews',
+  'nonce' => '37dd8ecc68',
+  'offset' => '0',
+  'post_id' => '8830',
+)
+27.09.2021 15:08:09 - array (
+  'action' => 'stm_lms_load_modal',
+  'modal' => 'login',
+  'nonce' => '44733c8d82',
+)
+27.09.2021 15:09:08 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:09:11 - array (
+  'action' => 'stm_lms_login',
+  'nonce' => '8213a3e602',
+)
+27.09.2021 15:09:15 - array (
+)
+27.09.2021 15:09:21 - array (
+  'action' => 'stm_lms_get_reviews',
+  'nonce' => '806fc172d6',
+  'offset' => '0',
+  'post_id' => '8830',
+)
+27.09.2021 15:09:57 - array (
+  'action' => 'stm_lms_add_to_cart',
+  'nonce' => 'c56ab670b7',
+  'item_id' => '8830',
+  'payment_code' => 'payme',
+)
+27.09.2021 15:10:25 - array (
+  'action' => 'stm_lms_add_to_cart',
+  'nonce' => 'c56ab670b7',
+  'item_id' => '8830',
+  'payment_code' => 'payme',
+)
+27.09.2021 15:10:39 - array (
+  'wc-ajax' => 'get_refreshed_fragments',
+  'time' => '1632755421098',
+)
+27.09.2021 15:11:12 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:11:35 - array (
+  'action' => 'stm_lms_add_to_cart',
+  'nonce' => 'c56ab670b7',
+  'item_id' => '8830',
+  'payment_code' => 'payme',
+)
+27.09.2021 15:12:12 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:12:40 - array (
+)
+27.09.2021 15:12:43 - array (
+)
+27.09.2021 15:12:44 - array (
+)
+27.09.2021 15:12:48 - array (
+)
+27.09.2021 15:14:12 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:15:32 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'true',
+)
+27.09.2021 15:15:33 - array (
+)
+27.09.2021 15:16:33 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:18:32 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:22:34 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:24:35 - array (
+  'interval' => '60',
+  '_nonce' => 'ceee133738',
+  'action' => 'heartbeat',
+  'screen_id' => 'toplevel_page_stm-lms-settings',
+  'has_focus' => 'false',
+)
+27.09.2021 15:30:23 - array (
+  'jsonrpc' => '2.0',
+  'id' => 12206,
+  'method' => 'CheckPerformTransaction',
+  'params' => 
+  array (
+    'amount' => 100000000,
+    'account' => 
+    array (
+      'order_id' => '8935',
+      'test' => '1233',
+      'itstars_uz' => '2222',
+    ),
+  ),
+)
+27.09.2021 15:30:25 - array (
+  'jsonrpc' => '2.0',
+  'id' => 12207,
+  'method' => 'CreateTransaction',
+  'params' => 
+  array (
+    'account' => 
+    array (
+      'order_id' => '8935',
+      'test' => '1233',
+      'itstars_uz' => '2222',
+    ),
+    'amount' => 100000000,
+    'id' => '6151e390ae53c1663572481b',
+    'time' => 1632756624368,
+  ),
+)
+27.09.2021 15:30:26 - array (
+  'jsonrpc' => '2.0',
+  'id' => 12208,
+  'method' => 'CheckTransaction',
+  'params' => 
+  array (
+    'id' => '6151e390ae53c1663572481b',
+  ),
+)
+27.09.2021 15:30:27 - array (
+  'jsonrpc' => '2.0',
+  'id' => 12209,
+  'method' => 'CreateTransaction',
+  'params' => 
+  array (
+    'account' => 
+    array (
+      'order_id' => '8935',
+      'test' => '1233',
+      'itstars_uz' => '2222',
+    ),
+    'amount' => 100000000,
+    'id' => '6151e392ae53c1663572481c',
+    'time' => 1632756626549,
+  ),
+)
+27.09.2021 15:33:24 - NULL
+27.09.2021 15:34:25 - NULL
+27.09.2021 15:36:25 - NULL
+27.09.2021 15:38:26 - NULL
+27.09.2021 15:40:16 - NULL
+27.09.2021 15:41:16 - NULL
+27.09.2021 15:43:18 - NULL
+27.09.2021 15:45:18 - NULL
+27.09.2021 15:46:19 - NULL
+27.09.2021 15:48:21 - NULL
+27.09.2021 15:50:22 - NULL
+27.09.2021 15:52:23 - NULL
+27.09.2021 15:54:23 - NULL

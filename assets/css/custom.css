@@ -1,0 +1,599 @@
+/* Theme override (start classes with: ----- body.itstars ----- ) */
+
+body.itstars .header_6 .header_main_menu_wrapper {
+    margin-top: 28px !important;
+}
+
+body.itstars .header_6 .magic_line {
+    bottom: -5px;
+}
+
+
+body.itstars .stm_lms_courses__single.style_2 .stm_lms_courses__single--title h5 {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+body.itstars .stm_lms_courses__single.style_2 .stm_lms_courses__single--terms .stm_lms_courses__single--term {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+body.itstars .start-course {
+    padding-top: 33px;
+    padding-bottom: 30px;
+}
+
+/* Theme override */
+
+.tech__stm_lms_lesson_header {
+    padding: 10px 0;
+}
+
+@media (min-width: 992px) {
+
+    .tech__stm_lms_lesson_header__row {
+        display: flex;
+        align-items: center;
+    }
+}
+
+
+@media (max-width: 767px) {
+
+    .container-fluid--tech__lesson-wrapper {
+        padding: 0;
+    }
+
+    .container-fluid--tech__lesson {
+        padding: 0 !important;
+    }
+}
+
+@media (min-width: 768px) {
+
+    .tech__stm_lms_lesson_header .stm_lms_lesson_header__right {
+        justify-content: flex-end;
+    }
+}
+
+@media (max-width: 1024px) {
+
+    .tech__stm_lms_lesson_header .stm_lms_lesson_header__right {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .tech__stm_lms_lesson_header .stm_lms_lesson_header__right {
+        margin-top: 20px;
+    }
+
+    .tech__stm_lms_lesson_header .stm_lms_lesson_header__right .stm_lms_account_dropdown .dropdown-menu {
+        left: 0 !important;
+        right: auto !important;
+    }
+}
+
+.tech__stm_lms_lesson_header .stm_lms_lesson_header__right .stm_lms_wishlist_button {
+    display: none !important;
+}
+
+.stm_lms_account_dropdown .lnr.lnr-user {
+    font-size: 20px;
+    vertical-align: -3px;
+}
+
+.stm_lms_account_dropdown .login_name {
+    display: none !important;
+}
+
+.tech__course-price {
+    margin-top: 30px;
+}
+
+.tech__course-price strong {
+    font-size: 30px;
+}
+
+.tech__course-price span {
+    font-size: 20px;
+    color: gray;
+    text-decoration: line-through;
+}
+
+.tech__livetime-block img {
+    width: 28px;
+}
+
+.courses_filters__switcher {
+    display: none !important;
+}
+
+.tech__stm-lms-lessons {
+    padding-top: 0 !important;
+}
+
+.tech__stm-lms-lessons video {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.tech__curriculum {
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 15%);
+}
+
+.tech__curriculum .stm-curriculum__title {
+    margin: 0 0 20px 0;
+}
+
+.stm_lms_lesson_header__left .stm-lms-curriculum-trigger {
+    display: none !important;
+}
+
+.tech__coming-soon-badge {
+    position: absolute;
+    top: calc(50% - 26px);
+    left: 50%;
+    transform: translateX(-50%);
+    transition: none;
+    padding: 15px 20px;
+    font-size: 20px;
+    color: #ffffff;
+    white-space: nowrap;
+    background-color: rgb(0 0 0 / 35%);
+    border-radius: 10px;
+}
+
+.tech__course-single-excerpt p {
+    height: 3em;
+    overflow: hidden;
+    line-height: 1.5em;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.tech__course-single-rating-price {
+    margin-bottom: 20px;
+}
+
+.tech__course-single-rating-price .stm_lms_courses__single--price {
+    display: flex;
+    align-items: end;
+}
+
+.tech__course-single-rating-price .stm_lms_courses__single--price span {
+    font-size: 16px;
+    margin: 0 10px -2px 0;
+}
+
+.tech__course-single-rating-price .stm_lms_courses__single--price strong {
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+.tech__course-single-rating {
+    margin-bottom: 20px;
+}
+
+/* Video lesson page background changes */
+html.stm_lms_type_video body {
+    color: #273044;
+}
+
+html.stm_lms_type_video body {
+    background: none;
+}
+
+html.stm_lms_type_video body .stm_lms_lesson_header {
+    border-bottom: 1px solid #ddd;
+}
+
+html.stm_lms_type_video body .stm_lms_lesson_header__right a {
+    color: #00c691;
+    opacity: 1;
+}
+
+@media (max-width: 1024px) {
+
+    html.stm_lms_type_video body .stm_lms_lesson_header .stm_lms_lesson_header__center {
+        text-align: left;
+    }
+}
+
+@media (max-width: 550px) {
+
+    html.stm_lms_type_video body .stm_lms_lesson_header .stm_lms_lesson_header__center {
+        margin: 0;
+    }
+}
+
+html.stm_lms_type_video body .stm_lms_lesson_header .stm_lms_lesson_header__center a {
+    color: #273044;
+}
+
+html.stm_lms_type_video body .stm_lms_lesson_header .stm_lms_lesson_header__center a:hover {
+    color: #042d89;
+}
+
+html.stm_lms_type_video body .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button {
+    background-color: #f0f4fa;
+    border: 1px solid #f0f4fa;
+}
+
+html.stm_lms_type_video body .stm_lms_account_dropdown .dropdown button i {
+    color: #385bce !important;
+}
+
+/* Contact Page */
+body.page-id-413 .icon .fa-telegram-plane {
+    width: 35px;
+    height: 35px;
+    background-size: 35px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('https://itstars.uz/wp-content/themes/masterstudy-child/images/telegram-o.svg');
+}
+
+body.page-id-413 .icon .fa-telegram-plane:before {
+    display: none;
+}
+
+.stm_lms_course_sticky_panel.is-visible {
+    display: none !important;
+}
+
+.stm-curriculum-item {
+    flex-wrap: nowrap !important;
+}
+
+/* Registration form */
+
+form.stm_lms_register_wrapper {
+    position: relative;
+}
+
+form.stm_lms_register_wrapper > .row:first-child > .col-md-6:nth-child(3) {
+    width: calc(100% - 70px);
+    position: absolute;
+    bottom: 95px;
+    left: 35px;
+}
+
+/*form.stm_lms_register_wrapper > .row:last-child {
+    margin-top: 190px;
+}*/
+
+/* Registration form ends */
+
+.stm-lms-modal-enterprise .stm_lms_enterprise_wrapper {
+    background-color: #FFF;
+}
+
+.stm-lms-modal-enterprise .modal-body .close {
+    color: black !important;
+}
+
+.stm-lms-modal-enterprise .modal-body .btn {
+    font-size: 20px;
+}
+
+.stm-curriculum-item.lms-active .heading_font {
+    color: #00c691 !important;
+}
+
+/* PRICE LIST PAGE */
+.price-list-desktop {
+  background-color: #FFF;
+  border: 1px solid #E0E4E9;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden; }
+  @media (max-width: 991.98px) {
+    .price-list-desktop__wrapper {
+      display: none; } }
+  .price-list-desktop table {
+    margin: 0;
+    width: 100%;
+    table-layout: fixed; }
+    .price-list-desktop table tr:first-child td {
+      vertical-align: top;
+      padding-top: 50px;
+      padding-bottom: 40px;
+      font-weight: normal;
+      position: relative; }
+      .price-list-desktop table tr:first-child td h3 {
+        position: relative;
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+        font-size: 30px;
+        color: #484848;
+        font-weight: 500;
+        line-height: 42px; }
+        @media (max-width: 1199.98px) {
+          .price-list-desktop table tr:first-child td h3 {
+            font-size: 24px;
+            line-height: normal; } }
+        .price-list-desktop table tr:first-child td h3:after {
+          content: '';
+          position: absolute;
+          left: calc(50% - 40px);
+          bottom: 0;
+          width: 80px;
+          height: 5px;
+          background-color: #E0E4E9; }
+      .price-list-desktop table tr:first-child td h4 {
+        font-size: 38px;
+        color: #484848;
+        font-weight: 500;
+        line-height: 46px;
+        margin-bottom: 10px; }
+        @media (max-width: 1199.98px) {
+          .price-list-desktop table tr:first-child td h4 {
+            font-size: 24px;
+            line-height: normal; } }
+        .price-list-desktop table tr:first-child td h4 small {
+          font-weight: 500; }
+      .price-list-desktop table tr:first-child td .__description {
+        margin-bottom: 35px; }
+        .price-list-desktop table tr:first-child td .__description > span {
+          font-size: 16px;
+          margin-right: 10px; }
+    .price-list-desktop table tr:not(:first-child):not(:last-child) td:first-child {
+      text-align: left;
+      font-weight: 500; }
+    .price-list-desktop table td {
+      vertical-align: middle;
+      font-size: 16px;
+      line-height: 20px;
+      text-align: center;
+      height: 80px;
+      border-width: 1px;
+      padding: 8px 30px;
+      border-color: #E0E4E9; }
+      .price-list-desktop table td:last-child {
+        background-color: #F6F7F8; }
+    .price-list-desktop table tr:last-child td {
+      padding-top: 40px;
+      padding-bottom: 40px; }
+    .price-list-desktop table td:not(:last-child) {
+      border-right: 1px solid #E0E4E9; }
+    .price-list-desktop table tr:not(:last-child) td {
+      border-bottom: 1px solid #E0E4E9; }
+  .price-list-desktop .btn {
+    padding: 10px 50px;
+    font-weight: normal;
+    text-transform: none;
+    border-radius: 15px; }
+  .price-list-desktop .icon {
+    font-size: 16px;
+    color: #484848; }
+
+@media (min-width: 992px) {
+  .price-list-mobile {
+    display: none; } }
+
+.price-list-mobile .price-list {
+  background-color: #FFF;
+  border: 1px solid #E0E4E9;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 30px;
+  padding-top: 60px;
+  margin-bottom: 30px;
+  text-align: center; }
+  .price-list-mobile .price-list h3 {
+    position: relative;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: #484848;
+    font-weight: 500;
+    line-height: 42px; }
+    .price-list-mobile .price-list h3:after {
+      content: '';
+      position: absolute;
+      left: calc(50% - 40px);
+      bottom: 0;
+      width: 80px;
+      height: 5px;
+      background-color: #E0E4E9; }
+  .price-list-mobile .price-list h4 {
+    font-size: 38px;
+    color: #484848;
+    font-weight: 500;
+    line-height: 46px;
+    margin-bottom: 10px; }
+    .price-list-mobile .price-list h4 small {
+      font-weight: 500; }
+  .price-list-mobile .price-list .__description {
+    margin-bottom: 35px; }
+    .price-list-mobile .price-list .__description > span {
+      font-size: 16px;
+      margin-right: 10px; }
+  .price-list-mobile .price-list__details {
+    text-align: left;
+    margin-top: 30px; }
+    @media (min-width: 768px) {
+      .price-list-mobile .price-list__details {
+        column-count: 2;
+        column-gap: 30px; } }
+    .price-list-mobile .price-list__details p {
+      margin: 10px 0 0 0; }
+      .price-list-mobile .price-list__details p .icon, .price-list-mobile .price-list__details p .fas {
+        font-size: 14px;
+        margin-right: 15px; }
+
+.warranty-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 130px;
+  height: 40px;
+  padding: 5px 0;
+  position: absolute;
+  top: 26px;
+  right: -19px;
+  z-index: 1;
+  color: #FFF;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #2EC097;
+  transform: rotate(45deg); }
+  .warranty-label:before, .warranty-label:after {
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    position: absolute;
+    top: 0; }
+  .warranty-label:before {
+    left: -40px;
+    border-width: 0 0 40px 40px;
+    border-color: transparent transparent #2EC097 transparent; }
+  .warranty-label:after {
+    right: -40px;
+    border-width: 40px 0 0 40px;
+    border-color: transparent transparent transparent #2EC097; }
+  .warranty-label span:before, .warranty-label span:after {
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    position: absolute;
+    bottom: -20px; }
+  .warranty-label span:before {
+    left: -40px;
+    border-width: 20px 20px 0 0;
+    border-color: #1a6e56 transparent transparent transparent; }
+  .warranty-label span:after {
+    right: -40px;
+    border-width: 0 20px 20px 0;
+    border-color: transparent #1a6e56 transparent transparent; }
+
+.price-list__tooltip {
+  position: relative;
+  display: inline-block;
+  vertical-align: -5px; }
+  .price-list__tooltip-icon {
+    display: flex; }
+    .price-list__tooltip-icon svg {
+      position: relative;
+      width: 20px;
+      height: 20px; }
+  .price-list__tooltip p {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 40;
+    width: 200px;
+    margin: 0;
+    padding: 15px;
+    font-size: 12px;
+    color: white;
+    background: black;
+    border-radius: 5px; }
+  .price-list__tooltip:hover p {
+    display: block; }
+
+.payment-btns__inner {
+  display: none;
+  justify-content: space-between; }
+  .payment-btns__inner.active {
+    display: flex; }
+  .payment-btns__inner .btn {
+    width: calc(50% - 7px);
+    padding-left: 10px !important;
+    padding-right: 10px !important; }
+
+.position-relative {
+  position: relative; }
+
+.price-list-desktop table tr {
+  border: 0; }
+  .price-list-desktop table tr:first-child td {
+    padding-left: 20px;
+    padding-right: 20px; }
+
+.btn-theme, .price-list-desktop .btn,
+.price-list-mobile .btn {
+  padding: 15px 50px;
+  font-size: 18px;
+  border-radius: 15px;
+  outline: none;
+  border: 1px solid transparent;
+  transition: all 0.2s ease-in-out; }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-theme, .price-list-desktop .btn,
+    .price-list-mobile .btn {
+      transition: none; } }
+  .btn-theme.btn-primary, .price-list-desktop .btn-primary.btn,
+  .price-list-mobile .btn-primary.btn {
+    color: #FFF;
+    background-color: #2EC097; }
+    .btn-theme.btn-primary:hover, .price-list-desktop .btn-primary.btn:hover,
+    .price-list-mobile .btn-primary.btn:hover {
+      border-color: #2EC097;
+      background-color: #29ab87; }
+    .btn-theme.btn-primary:focus, .price-list-desktop .btn-primary.btn:focus,
+    .price-list-mobile .btn-primary.btn:focus {
+      outline: none; }
+  .btn-theme.btn-outline-primary, .price-list-desktop .btn-outline-primary.btn,
+  .price-list-mobile .btn-outline-primary.btn {
+    color: #2EC097;
+    border-color: #2EC097;
+    background-color: transparent; }
+    .btn-theme.btn-outline-primary:hover, .price-list-desktop .btn-outline-primary.btn:hover,
+    .price-list-mobile .btn-outline-primary.btn:hover {
+      outline: none;
+      color: #FFF;
+      border-color: #2EC097;
+      background-color: #2EC097; }
+    .btn-theme.btn-outline-primary:focus, .price-list-desktop .btn-outline-primary.btn:focus,
+    .price-list-mobile .btn-outline-primary.btn:focus {
+      outline: none; }
+
+.price-list-desktop .loading,
+.price-list-mobile .loading {
+  min-height: auto !important; }
+  .price-list-desktop .loading:before,
+  .price-list-mobile .loading:before {
+    top: 9px !important; }
+
+.price-list-desktop .form-group,
+.price-list-mobile .form-group {
+  margin-bottom: 0 !important; }
+
+.price-list-oferta {
+  margin-top: 20px; }
+  .price-list-oferta p {
+    margin: 0; }
+  .price-list-oferta a {
+    color: #8F3985; }
+
+/* PRICE LIST PAGE styled end */
+
+.price-list-desktop__wrapper button.btn.btn-outline-primary.payme-payment {
+    background: white !important;
+    color: #2EC097;
+}
+.price-list-desktop__wrapper button.btn.btn-outline-primary.payme-payment:hover {
+    background: #2EC097 !important;
+    color: white;
+}
+
+.price-list-desktop .btn.btn-default.loading:before,
+.price-list-mobile .btn.btn-default.loading:before{
+	margin: -2px 0 0 -15px;
+}
+
+.tech__course-price span.stm-message {
+    text-decoration: none !important;
+}
